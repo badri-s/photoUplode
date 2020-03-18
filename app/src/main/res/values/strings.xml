@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">photoUplode</string>
+    <string name="hah">INSERT INTRO FOOD VALUES(NULL,?,?,?)</string>
+</resources>
